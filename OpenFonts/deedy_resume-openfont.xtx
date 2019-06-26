@@ -65,8 +65,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
+\namesection{Scott}{Hatcher}{ \urlstyle{same}\href{https://svhatch.github.com}{svhatch.github.com}| \href{https://twitter.com/svHatch}{@svHatch}\\
+\href{mailto:scott.v.hatcher@gmail.com}{scott.v.hatcher@gmail.com} | 782.234.3691 
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -75,7 +75,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth} 
+\begin{minipage}[t]{0.30\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
@@ -83,22 +83,20 @@
 
 \section{Education} 
 
-\subsection{Cornell University}
-\descript{MEng in Computer Science}
-\location{Dec 2014 | Ithaca, NY}
+\subsection{Memorial University}
+\descript{M.Sc. in Phyiscal Geography}
+Specialized in coastal geomorphology.
+\location{Apr 2013 | St.John's, NL}
 \sectionsep
 
-\subsection{Cornell University}
-\descript{BS in Computer Science}
-\location{May 2014 | Ithaca, NY}
-College of Engineering \\
-Magna Cum Laude\\
-\location{ Cum. GPA: 3.83 / 4.0 \\
-Major GPA: 3.9 / 4.0}
+\subsection{NSCC Centre of Geographic Sciences}
+\descript{Adv. Diploma in Remote Sensing}
+\location{June 2010 | Lawrencetown, NS}
 \sectionsep
 
-\subsection{La Martiniere for Boys}
-\location{Grad. May 2011|  Kolkata, India}
+\subsection{St.FX University}
+\location{May 2009 | Antigonish, NS}
+Double major in Music/History.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -106,12 +104,8 @@ Major GPA: 3.9 / 4.0}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
-Facebook:// \href{https://facebook/dd}{\bf dd} \\
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
+LinkedIn://  \href{https://www.linkedin.com/in/svhatcher/}{\bf svhatcher} \\
+Twitter://  \href{https://twitter.com/svHatch}{\bf @svHatch} \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
@@ -119,38 +113,36 @@ Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
 
 \section{Coursework}
 \subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-Evolutionary Computation \\
-Defending Computer Networks \\
-Machine Learning \\
+Coastal Geomorphology \\
+Fluvial Geomorphology \\
+Geography of the Arctic \\
+{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
+Research Theory and Methods \\
+Remote Sensing \\
+Grid Modelling \\
+GIS \\
+Photogrammetric Computation \\
+Scientific Programming \\
 \sectionsep
 
 \subsection{Undergraduate}
-Information Retrieval \\
-Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-Unix Tools and Scripting \\
+Physics \\
+Calculus \& Linear Algebra \\
+History \\
+Music Performance \\
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
+\subsection{Certifications}
+OHS \& WHMIS \textbullet{} MED A3 \textbullet{} SVOP \\
+PADI Open-water diver
 \subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
-\location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+Shell \textbullet{} Python \textbullet{} Javascript \\
+Matlab \textbullet{} \LaTeX\ \\ 
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -168,33 +160,26 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
+
+\runsubsection{Geological Survey of Canada}
+\descript{| EG-II GIS Analyst}
+\location{Jan 2019 - May 2019 | Dartmouth, NS}
 \sectionsep
 
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
+\runsubsection{PrecisionHawk Ltd.}
+\descript{| Geospatial Scientist \& R\&D Technical Lead}
+\location{Sep 2016 – Sep 2018 | Halifax, NS (Remote)}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\begin{tightemize}
+\item Client facing communication lead for the R\&D team.
+\item Research lead for the companies largest client.
+\item Managed two scientists on the R\&D team.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
-\begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.\item Created a backbone.js-like framework for the Captions editor.\end{tightemize}
-\sectionsep
-
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
-\begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.\item I created the Meme generator and more in PHP and Shell.\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.\end{tightemize}
+\runsubsection{eCoast Ltd.}
+\descript{| Research Intern }
+\location{Feb 2016 – May 2016 | Raglan, NZ}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -202,16 +187,23 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Researcher}
-\location{Jan 2014 – Jan 2015 | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+
+\runsubsection{University of Otago}
+\descript{| Research Assistant}
+\location{Jan 2015 – Feb 2016 | Dunedin, NZ}
+Worked with \textbf{\href{https://www.otago.ac.nz/geography/staff/academic/otago089600.html}{Dr. Mike Hilton}} and his lab to research the contribution of \textbf{aeolian processes} in the evolution of the St.Kilda coastal foredune in Dunedin, as well as the remote Mason Bay coastal foredune on Stewart Island. Work presented in the proceedings of the international coastal synmposium.
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+\runsubsection{Memorial University}
+\descript{| Research Assistant}
+\location{Apr 2013 – Nov 2013 | St.John's, NL}
+As part of the \textbf{Sustainable Communities Initiative} project with the Nunatsiavut government, I worked with \textbf{\href{https://www.mun.ca/geog/people/faculty/tbell.php}{Dr. Trevor Bell}} as logistics support and geomorphological mapping support during three field trips to the Inuit communities of northern Labrador.
+\sectionsep
+
+\runsubsection{Memorial University}
+\descript{| M.Sc. research}
+\location{Sep 2010 – Apr 2013 | St.John's, NL}
+My M.Sc. research mapped coastal hazards from climate change in Iqaluit, Nunavut. Supervised by \textbf{\href{https://www.mun.ca/geog/people/faculty/dforbes.php}{Dr. Don Forbes}}, I led four trips to survey coastal infrastructure and conduct geoscience field work. I published results in the journal \textit{Arctic}, and in a \textit{GSC Open-file} report.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -220,12 +212,9 @@ Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-
 
 \section{Awards} 
 \begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
+2013	     & Graduate fellow & Memorial University \\
+2011         & Student essay award & Society for the History of Discoveries \\
+2010	     & Inuit values award & ArcticNet scientific meeting\\
 \end{tabular}
 \sectionsep
 
@@ -233,8 +222,8 @@ Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
+\section{Select Publications} 
+\renewcommand\refname{\vskip -0.5cm} % Couldn't get this working from the .cls file
 \bibliographystyle{abbrv}
 \bibliography{publications}
 \nocite{*}
